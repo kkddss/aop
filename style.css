@@ -68,5 +68,7 @@ section h2 {
 }
 
 p {
-  margin-bottom: 1.2rem; /* adjust the number for more/less space */
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #ddd;
 }
