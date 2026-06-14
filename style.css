@@ -52,9 +52,9 @@ main {
 
 section {
   background: #fff;
-  padding: 1.5rem;
-  margin-bottom: 1.5rem;
-  border-radius: 6px;
+  padding: 1.25rem;
+  margin-bottom: 1.25rem;
+  border-radius: 10px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.08);
 }
 
